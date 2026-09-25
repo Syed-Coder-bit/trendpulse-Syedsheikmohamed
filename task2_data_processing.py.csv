@@ -1,0 +1,78 @@
+post_id,title,category,score,num_comments,author,collected_at
+49831774,Disney+ and Hulu raise prices by up to 13 percent after doubling profits,technology,47,26,Brajeshwar,2026-09-25T11:22:14.673429
+49830866,"Best LLM for every budget, updated daily",technology,110,60,terryds,2026-09-25T11:22:14.673429
+49831690,Tutoring company tells parents to save their money and 'use AI instead',technology,26,21,theanonymousone,2026-09-25T11:22:14.673429
+49825580,"OpenAI agent hacked Australian government website, PM says",technology,233,160,rudy6912,2026-09-25T11:22:14.673429
+49800557,Coulomb's law remains tricky to test at home,technology,12,7,surprisetalk,2026-09-25T11:22:14.673429
+49822555,VSCode's SSH Agent Is Bananas (2025),technology,285,180,Rapzid,2026-09-25T11:22:14.673429
+49827794,Meta takes down a critical video about meta AI Glasses after filming at Meta,technology,511,306,pieterr,2026-09-25T11:22:14.673429
+49824864,Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest,technology,139,56,WanjohiRyan,2026-09-25T11:22:14.673429
+49830037,Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center,technology,72,65,simonpure,2026-09-25T11:22:14.673429
+49826565,Early rogue AI agent activity and attempts to hack found on urlquery.net,technology,199,187,snikolaev,2026-09-25T11:22:14.673429
+49819880,Making Tailscale Faster,technology,215,87,yarapavan,2026-09-25T11:22:14.673429
+49831220,"The Antennagate Q&A, which has never been available, has been posted today [video]",technology,8,2,philistine,2026-09-25T11:22:14.673429
+49823348,Mercury 2.5 LLM hits 770 tokens per second,technology,139,87,Retro_Dev,2026-09-25T11:22:14.673429
+49831236,"Humans Are Reading Your ChatGPT Chats, Lawsuit Claims",technology,8,2,nreece,2026-09-25T11:22:14.673429
+49826163,Nori LLM: Achieving Over 1M tok / s,technology,22,3,theahura,2026-09-25T11:22:14.673429
+49824884,Nesbox: A fast MicroVM with GPU sharing,technology,25,2,WanjohiRyan,2026-09-25T11:22:14.673429
+49820267,Cloud Agents Are Inevitable AI Prisons,technology,66,142,nponte,2026-09-25T11:22:14.673429
+49815466,I don't want the details,technology,422,215,mooreds,2026-09-25T11:22:14.673429
+49822556,"OpenAI breaches Medicare, Albanese reveals",technology,238,247,jonnonz,2026-09-25T11:22:14.673429
+49814947,Claude Code reads AGENTS.md only when telemetry is on [fixed],technology,474,276,pszypowicz,2026-09-25T11:22:14.673429
+49824686,"Feds Target AI Critics as ""Foreign Agents""",technology,344,360,nmeagent,2026-09-25T11:22:14.673429
+49817404,GPT-6 Astra has gained the ability to drive a car,technology,302,237,plurby,2026-09-25T11:22:14.673429
+49801700,Data liberation: Apache Kafka's native cluster mirroring,technology,17,3,fvaleri,2026-09-25T11:22:14.673429
+49806430,Pentagon says overreliance on AI contributed to missile strike on Iran school,technology,936,527,devonnull,2026-09-25T11:22:14.673429
+49830042,Google Takes the A.I. Data Center Race to Outer Space,technology,10,3,jbegley,2026-09-25T11:22:14.673429
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,worldnews,170,180,nonfamous,2026-09-25T11:22:14.673429
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,worldnews,145,154,giuliomagnifico,2026-09-25T11:22:14.673429
+49811065,Transit rewards,worldnews,254,335,raybb,2026-09-25T11:22:14.673429
+49794736,Looking forward to Git 2.56 – and 3.0,worldnews,201,114,chmaynard,2026-09-25T11:22:14.673429
+49808109,The UV index is not the warm sensation of sunlight on bare skin,worldnews,96,78,evakhoury,2026-09-25T11:22:14.673429
+49781693,Why Backprop Goes Backward (2018),worldnews,69,10,andsoitis,2026-09-25T11:22:14.673429
+49766966,Brood War Bench,worldnews,346,156,benswerd,2026-09-25T11:22:14.673429
+49813604,"My German Exit Tax: 13 Tax Advisors, 1.5 Years, 18.7k€ to leave the country",worldnews,34,29,olieidel,2026-09-25T11:22:14.673429
+49830428,"Trump's US no longer a reliable ally, warns Belgium in leaked document",worldnews,5,1,doener,2026-09-25T11:22:14.673429
+49809345,U.S. Government seizes 54-pound Martian meteorite sold at auction last year,worldnews,23,9,bookofjoe,2026-09-25T11:22:14.673429
+49794956,CO3: Toward the Optimal FFI,worldnews,3,0,manyatoms,2026-09-25T11:22:14.673429
+49797105,The secret Cold War bioweapons test that exposed millions in the Bay Area,worldnews,22,4,bcaulfield,2026-09-25T11:22:14.673429
+49829387,Hackers influence ChatGPT and Gemini to direct users to scam centers,sports,83,26,ArielSimon,2026-09-25T11:22:14.673429
+49829202,Modern Object Pascal Introduction for Programmers – Castle Game Engine,sports,6,1,birdculture,2026-09-25T11:22:14.673429
+49791296,Show HN: Conway's Game of Life in boot sector,sports,27,4,0xAX,2026-09-25T11:22:14.673429
+49778022,Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++,sports,139,99,metrofun,2026-09-25T11:22:14.673429
+49776523,Show HN: A competition for small neural networks that play strategy games,sports,115,41,codetiger,2026-09-25T11:22:14.673429
+49777121,Video games inspire great UX (2019),sports,48,3,andsoitis,2026-09-25T11:22:14.673429
+49789356,Show HN: Foremerge – Catch intent conflicts between parallel coding agents,sports,45,20,naw103,2026-09-25T11:22:14.673429
+49799083,"9 Ads per Minute: FIFA Cup 26 – ""the price of the beautiful game""",sports,180,216,KellyCriterion,2026-09-25T11:22:14.673429
+49791978,Microsoft patents system to freeze games and inject ads during downtimes,sports,43,18,ricobecks,2026-09-25T11:22:14.673429
+49824969,FLAWED's Flaws and What This Means for Industry Research,science,24,4,tob_scott_a,2026-09-25T11:22:14.673429
+49775082,The Millennium Problems for Biology,science,164,120,artninja1988,2026-09-25T11:22:14.673429
+49788220,A study of sequence weighting at scale,science,15,1,pranitha_m,2026-09-25T11:22:14.673429
+49791939,NASA’s Mars Sample Return mission is dead,science,451,390,Muhammad523,2026-09-25T11:22:14.673429
+49803684,Study Sessions Should Be Short and Frequent as Opposed to Long and Sparse,science,18,2,gmays,2026-09-25T11:22:14.673429
+49822042,Immigration changes are driving foreign researchers to leave the U.S.,science,9,0,Bluestein,2026-09-25T11:22:14.673429
+49831456,Japanese used bookstores see 5x sales surge as books are being bought by the ton,entertainment,36,16,speckx,2026-09-25T11:22:14.673429
+49793249,Women Who Sold Books Door to Door,entertainment,60,6,herbertl,2026-09-25T11:22:14.673429
+49828019,Show HN: Trader News – Hacker News for Finance,entertainment,12,11,FailMore,2026-09-25T11:22:14.673429
+49824715,Show HN: An open-source manufacturing ERP/MES/QMS,entertainment,48,25,barbinbrad,2026-09-25T11:22:14.673429
+49821086,Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes,entertainment,35,5,Loren_SL,2026-09-25T11:22:14.673429
+49799241,Show HN: An atlas of system designs with interactive architecture diagrams,entertainment,50,18,mertkahyaoglu,2026-09-25T11:22:14.673429
+49800513,Show HN: Npunlock – Run custom C kernels for Intel NPUs,entertainment,65,12,hsfzxjy,2026-09-25T11:22:14.673429
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",entertainment,144,36,florianstandhar,2026-09-25T11:22:14.673429
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,entertainment,187,63,mixedbit,2026-09-25T11:22:14.673429
+49821937,Show HN: QBasic 1.1 in the Browser,entertainment,8,5,vahidce,2026-09-25T11:22:14.673429
+49802789,Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models,entertainment,27,4,guanming0717,2026-09-25T11:22:14.673429
+49777539,Show HN: Radius – A Meetup.com Alternative,entertainment,168,84,radius89,2026-09-25T11:22:14.673429
+49797139,Apple Music to open concert venue in Battersea Power Station,entertainment,70,100,dabinat,2026-09-25T11:22:14.673429
+49765354,Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI,entertainment,81,35,4815162342,2026-09-25T11:22:14.673429
+49804217,Show HN: graf (1000x faster graphify in Rust),entertainment,12,3,ripped_britches,2026-09-25T11:22:14.673429
+49826059,"Show HN: How long do I need to work at my salary before I can coast, or retire?",entertainment,51,70,karmanyaahm,2026-09-25T11:22:14.673429
+49813253,Ju Ju Tsu A book about jj / jujutstu,entertainment,19,7,fanf2,2026-09-25T11:22:14.673429
+49804831,German court rules Meta liable for scam ads on Facebook and Instagram,entertainment,50,8,buzer,2026-09-25T11:22:14.673429
+49789066,"Show HN: Vellum, the best diagram editor you'll ever use",entertainment,25,15,JoshJamesAnthon,2026-09-25T11:22:14.673429
+49809267,"Show HN: A fast, offline Markdown viewer for macOS built in Swift",entertainment,8,0,tim_tairov,2026-09-25T11:22:14.673429
+49781727,Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter,entertainment,23,8,behdad,2026-09-25T11:22:14.673429
+49784336,Disney+: New user agreement allows ads before movies in all subscriptions,entertainment,507,371,DeepLogin,2026-09-25T11:22:14.673429
+49781032,"Show HN: Lightspeed, build real time apps the Laravel way (+asteroids demo)",entertainment,17,5,jv22222,2026-09-25T11:22:14.673429
+49792742,Show HN: Blackgit – use Git to only download those cared files,entertainment,4,3,zhonghua,2026-09-25T11:22:14.673429
+49770157,Show HN: Frost – frosted-glass Linux icons where file types say what they are,entertainment,15,1,thissayantan,2026-09-25T11:22:14.673429
